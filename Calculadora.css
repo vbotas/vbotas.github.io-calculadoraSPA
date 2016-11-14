@@ -1,0 +1,78 @@
+.calculadora {
+	width: 600px;
+	height:auto;
+	padding: 15px 15px;
+	margin: auto;
+	background: #232223;
+	border: 2px solid black;
+	border-radius: 5px;
+	overflow: hidden;
+	text-align: center;
+}
+
+#pantalla {
+	width: auto;
+	height: 50px;
+	padding: 10px;
+	border: 2px solid black;
+	background: #AAAAAA;
+	border-radius: 5px;
+	text-align: right;
+	color: #202030;
+	margin: 15px;
+	font-family: Impact;
+	font-size: 45px;
+	text-shadow:#000 0px -1px 0px;
+}
+
+.botonNumero, .botonOperador {
+	display: inline-block;
+	padding: 10px;
+	height: 75px;
+	width: 75px;
+	margin: 5px;
+	overflow: hidden;
+	border: 2px solid black;
+	border-radius: 5px;
+	color: #AAAAAA;
+	font-family: Impact, Verdana;
+	font-size:45px;
+	text-align: center;
+    text-decoration: none;
+    text-shadow:#000 0px -1px 0px;
+    box-shadow: 2px 2px 5px #999;
+}
+
+#numero0{
+	display:inline-block;
+	padding:10px;
+	height: 75px;
+	width: 190px;
+}
+
+#igual {
+	display:inline-block;
+	padding:10px;
+	height: 75px;
+	width: 190px;
+	font-size: 60px;
+	margin: 5px;
+	overflow: hidden;
+	border: 2px solid black;
+	border-radius: 5px;
+	color: #AAAAAA;
+	font-family: Impact, Verdana;
+	text-align: center;
+    text-decoration: none;
+    text-shadow:#000 0px -1px 0px;
+    box-shadow: 2px 2px 5px #999;
+}
+
+#borrar {
+	color: red;
+}
+
+a {
+	text-decoration: none;
+	color: #AAAAAA;
+}
