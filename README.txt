@@ -1,3 +1,5 @@
+ACTUALMENTE LA CALCULADORA ACEPTA NUMEROS POR TECLADO.
+
 Esta práctica consistirá en la creación de una calculadora que funcione como una SPA (Single Page Application), compuesta por un documento HTML, (Calculadora.html), una hoja de estilo CSS (Calculadora.css) y un fichero JavaScript (Calculadora2.js).
 
 La calculadora deberá realizar al menos las cuatro operaciones aritméticas básicas. Tendrá teclas (o similar) para poder escribir al menos:
